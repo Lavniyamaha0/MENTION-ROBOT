@@ -25,7 +25,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/social_mechanic'),
+        Button.url('📣 Channel', 'https://t.me/my0group0'),
         Button.url('📦 Source', 'https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT')
       ]
     )
@@ -39,7 +39,7 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/social_mechanic'),
+        Button.url('📣 mygroup', 'https://t.me/my0group0'),
         Button.url('📦 Source', 'https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT')
       ]
     )
