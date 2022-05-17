@@ -26,7 +26,7 @@ async def start(event):
     buttons=(
       [
         Button.url('📣 Channel', 'https://t.me/my0group0'),
-        Button.url('📦 Source', 'https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT')
+        
       ]
     )
   )
@@ -40,7 +40,7 @@ async def help(event):
     buttons=(
       [
         Button.url('📣 mygroup', 'https://t.me/my0group0'),
-        Button.url('📦 Source', 'https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT')
+        
       ]
     )
   )
